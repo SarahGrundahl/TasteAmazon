@@ -1,1 +1,3 @@
-Hejsa
+Login: 
+Brugernavn: admin
+Adgangskode: admin
